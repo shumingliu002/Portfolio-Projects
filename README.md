@@ -8,3 +8,7 @@ SQLProject2-
 
 Analyzed WHO data to find a link between the productivity of a country( Gross Domestic Product Per Capita) and the severity of COVID (new cases and mortality rate). Tableau visualizations are found here:https://public.tableau.com/app/profile/shu.ming/viz/GDPvsCovidMetrics/Dashboard1
 Dataset was sourced from:https://ourworldindata.org/covid-vaccinations
+
+SQLProject3-
+
+Cleaning data in SQL Queries. Standardizing date entries, populating NULL entries using JOIN, breaking down address data into individual colummns.
