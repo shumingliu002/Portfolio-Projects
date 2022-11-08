@@ -12,3 +12,6 @@ Dataset was sourced from:https://ourworldindata.org/covid-vaccinations
 SQLProject3-
 
 Cleaning data in SQL Queries. Standardizing date entries, populating NULL entries using JOIN, breaking down address data into individual colummns.
+
+SQLProject4-
+Joined two tables, CPI(Consumer Purchasing Index) and Sales number from a departmental store to find a relationship. Date data from two tables are cleaned and standardized. CPI Data sourced from https://www.bls.gov/cpi/data.html. Tableau visualizations found here:https://public.tableau.com/app/profile/shu.ming/viz/CPIandWeeklySales/Dashboard1
